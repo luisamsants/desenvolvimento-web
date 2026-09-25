@@ -1,1 +1,30 @@
+h1{
+    color:#3b6064 ;
+}
 
+.subtitle{
+    color:#3b6064;
+}
+
+nav, a{
+    color: #87bba2;
+    font-size: 107%;
+}
+
+body{
+    background-color: #c9e4caad;
+    font-family:'Oswald';
+    font-style: italic;
+}
+
+header, nav{
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 20px;
+}
+
+form{
+    width: 230px;
+}
